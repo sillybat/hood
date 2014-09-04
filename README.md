@@ -1,4 +1,4 @@
 hood
 ====
 
-A simple app
+A simple app for anonymous messages
